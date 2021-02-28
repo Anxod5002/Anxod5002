@@ -55,7 +55,7 @@
 
 <img align="right" src="https://i.giphy.com/media/26ufdipQqU2lhNA4g/giphy.webp" alt="Programmation" width="100" />
 
-Si deseas ayudarme, con un follow es más que suficiente ;) <div>[![GitHub Anxod5002](https://img.shields.io/github/followers/Anxod5002?label=follow&style=social)](https://github.com/Anxod5002) ![](https://komarev.com/ghpvc/?username=Anxod5002&color=green)</div>
+I you want to help me, a follow is the best ;) <div>[![GitHub Anxod5002](https://img.shields.io/github/followers/Anxod5002?label=follow&style=social)](https://github.com/Anxod5002) ![](https://komarev.com/ghpvc/?username=Anxod5002&color=green)</div>
 
 <br />
 
@@ -69,13 +69,13 @@ this takes time. You can integrate and use these projects in your applications *
 However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
 
  - Starring and sharing the projects you like :rocket:
- - [![PayPal](https://alfreddagenais.github.io/badges/paypal.svg)][paypal-donations] — You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+ - [![PayPal](https://alfreddagenais.github.io/badges/paypal.svg)][paypal-donations] — You can make one-time donations via PayPal!
  - [![Support me on Patreon](https://alfreddagenais.github.io/badges/patreon.svg)][patreon] — Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
- - [![Buy Me a Coffee](https://alfreddagenais.github.io/badges/buymeacoffee-sm.svg)][buymeacoffee] — You can make one-time donations via Buy Me a Coffee. I'll probably buy a coffee or tea. :tea:
+ - [![Buy Me a Coffee](https://alfreddagenais.github.io/badges/buymeacoffee-sm.svg)][buymeacoffee] — You can make one-time donations via Buy Me a Coffee!
 
 Thanks! :heart:
 
-<img src="https://i.giphy.com/media/W0crByKlXhLlC/200.webp" alt="Programmation" width="200" /><img src="https://media3.giphy.com/media/RgAl2ESJFnIQ0/giphy.gif" alt="Spock" width="200" />
+<img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/source.mov" alt="Programmation" width="200" /><img src="https://media.giphy.com/media/H5C8CevNMbpBqNqFjl/source.gif" alt="Spock" width="200" />
 
 [website]: https://anxodbot.statuspage.io/
 [twitter]: https://twitter.com/anxod5002
