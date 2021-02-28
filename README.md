@@ -47,7 +47,7 @@
 
 <img alt="AlfredDagenais's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anxod5002&show_icons=true&hide_border=true" />
 
-<img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxod5002&layout=compact&hide_border=true" />
+<img alt="AlfredDagenais's Github Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anxod5002&layout=compact&hide_border=true" />
 
 ---
 
