@@ -1,14 +1,14 @@
-### Hi there, I'm ✨ [Anxod5002][website] ✨ - as [KilukruMedia][websitekm] 👋 
+### Hi there, I'm ✨ [Anxod5002][website] ✨ 👋 
 
 ## I'm a starting <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Home Builder and a Gamer! <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer
 - 🔭 I’m currently working on a [Dashboard Discord Bot][https://anxodbot.statuspage.io/] 🌱!
-- 🌱 I’m currently learning everything 🤣
-- 💡 I love innovation and new technologies
+- 🌱 I’m currently learning web design 🤣
+- 💡 I love innovation and all types of technologies
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 🚀 One day I will see humans on Mars!
-- ⚡ Fun fact: I love to draw and build house
+- 🥅 I´m trying to create a online dashboard
+- 🚀 I want to make a programming team to do a lot of things!
+- ⚡ Fun fact: I love playing videogames ;)
 
 <br />
 
