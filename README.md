@@ -2,7 +2,7 @@
 
 ## I'm a <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Home Builder and a Gamer! <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer
-- 🔭 I’m currently working on a [Dashboard Discord Bot][website] 🌱!
+- 🔭 I’m currently working on a [Dashboard Discord Bot][website] and a Fortnite Customs Bot🌱!
 - 🌱 I’m currently learning web design 🤣
 - 💡 I love innovation and all types of technologies
 - 👯 I’m looking to collaborate with other content creators
