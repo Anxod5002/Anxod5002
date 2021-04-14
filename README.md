@@ -51,6 +51,14 @@
 
 ---
 
+## Discord Profile
+
+![Discord](https://discord.c99.nl/widget/theme-3/546259394308866048.png)
+
+<br />
+
+---
+
 ## 🌏 Help me
 
 <img align="right" src="https://i.giphy.com/media/26ufdipQqU2lhNA4g/giphy.webp" alt="Programmation" width="100" />
