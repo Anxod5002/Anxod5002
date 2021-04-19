@@ -2,7 +2,7 @@
 
 ## I'm a <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Home Builder and a Gamer! <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer
-- 🔭 I’m currently working on a [Dashboard Discord Bot][website] and a Fortnite Customs Bot🌱!
+- 🔭 I’m currently working on a [Dashboard Discord Bot][website] and a [Fortnite Customs Bot][website2]🌱!
 - 🌱 I’m currently learning web design 🤣
 - 💡 I love innovation and all types of technologies
 - 👯 I’m looking to collaborate with other content creators
@@ -86,6 +86,7 @@ Thanks! :heart:
 <img src="https://media.giphy.com/media/1dPhXaod7vcn620V83/source.gif" alt="Programmation" width="200" /><img src="https://media.giphy.com/media/H5C8CevNMbpBqNqFjl/source.gif" alt="Spock" width="200" />
 
 [website]: https://anxodbot.statuspage.io/
+[website2]: https://anxodcustomsbots.gitbook.io/docs/
 [twitter]: https://twitter.com/anxod5002
 [instagram]: https://instagram.com/anxod5002
 [paypal-donations]: https://paypal.me/anxodd
