@@ -82,7 +82,6 @@ However, if you get some profit from this or just want to encourage me to contin
 
 Thanks! :heart:
 
-<img src="https://media.giphy.com/media/1dPhXaod7vcn620V83/source.gif" alt="Programmation" width="200" /><img src="https://media.giphy.com/media/H5C8CevNMbpBqNqFjl/source.gif" alt="Spock" width="200" />
 
 [website]: https://anxodbot.statuspage.io/
 [website2]: https://anxodcustomsbots.gitbook.io/docs/
