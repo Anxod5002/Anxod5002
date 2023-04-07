@@ -1,6 +1,6 @@
 ### Hi there, I'm ✨ [Anxod5002][website] ✨ 👋 
 
-## I'm a <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Home Builder and a Gamer! <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmation" width="200" />
+## I'm a <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, Home Builder and Gamer! <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer
 - 🌱 I’m currently learning web design 🤣
 - 💡 I love innovation and all types of technologies
