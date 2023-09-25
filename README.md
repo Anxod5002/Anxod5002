@@ -4,9 +4,8 @@
 - 👨🏻‍💻 Developer
 - 🌱 I’m currently learning web design 🤣
 - 💡 I love innovation and all types of technologies
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 I´m trying to create a online dashboard
-- 🚀 I want to make a programming team to do a lot of things!
+- 🚀 I want to create a programming team to do a lot of things!
 - ⚡ Fun fact: I love playing videogames ;)
 
 <br />
@@ -65,20 +64,6 @@
 I you want to help me, a follow is the best ;) <div>[![GitHub Anxod5002](https://img.shields.io/github/followers/Anxod5002?label=follow&style=social)](https://github.com/Anxod5002) ![](https://komarev.com/ghpvc/?username=Anxod5002&color=green)</div>
 
 <br />
-
----
-
-## 💕 Support me and my projects :sparkling_heart:
-
-I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can integrate and use these projects in your applications *for free*! You can even change the source code and redistribute (even resell it).
-
-However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
-
- - Starring and sharing the projects you like :rocket:
- - [![PayPal](https://alfreddagenais.github.io/badges/paypal.svg)][paypal-donations] — You can make one-time donations via PayPal!
- - [![Support me on Patreon](https://alfreddagenais.github.io/badges/patreon.svg)][patreon] — Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
- - [![Buy Me a Coffee](https://alfreddagenais.github.io/badges/buymeacoffee-sm.svg)][buymeacoffee] — You can make one-time donations via Buy Me a Coffee!
 
 Thanks! :heart:
 
